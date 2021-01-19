@@ -1,4 +1,4 @@
-Separate block diagrams for training and test phases for FLT, FLS, and FLUDA.
+Separate block diagrams for training and test phases for FSL<sub>T</sub>, FSL<sub>S</sub>, and FLUDA.
 
 # FSL<sub>T</sub>
 Few-shot Learing with target samples (support set) in the test phase
