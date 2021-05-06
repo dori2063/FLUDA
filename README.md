@@ -1,4 +1,4 @@
-Separate block diagrams for training and test phases for FSL<sub>T</sub>, FSL<sub>S</sub>, and FLUDA.
+Separate block diagrams for training and test phases for FSL<sub>T</sub>, pFSL, and FLUDA.
 
 # FSL<sub>T</sub>
 Few-shot Learing with target samples (support set) in the test phase
@@ -16,9 +16,7 @@ Few-shot Learing with source samples (support set) in the test phase
 # FLUDA
 
 Few-shot Learning and Unsupervised Domain Adaptation in the training phase 
-
-Few-shot Learing with source samples (support set) in the test phase
-
 <div align="center"><img src="figures/FLUDA_5.PNG" width="1600"/></div>
 
+Few-shot Learing with source samples (support set) in the test phase
 <div align="center"><img src="figures/FLUDA_6.PNG" width="1600"/></div>
